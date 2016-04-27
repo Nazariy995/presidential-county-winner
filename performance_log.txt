@@ -1,0 +1,33 @@
+naive_bayes with accuracy of 0.83606557377
+naive_bayes with accuracy of 83.606557377%
+naive_bayes with accuracy of 83.606557377%
+SVM with accuracy of 82.7868852459%
+Decistion Tree with accuracy of 77.0491803279%
+Decistion Tree with accuracy of 73.7704918033%
+Decistion Tree with accuracy of 72.131147541%
+Decistion Tree with accuracy of 77.0491803279%
+Decistion Tree with accuracy of 79.5081967213% 
+Decistion Tree with accuracy of 74.5901639344%
+Decistion Tree with accuracy of 80.3278688525%
+Decistion Tree with accuracy of 80.3278688525%
+Decistion Tree with accuracy of 81.9672131148%
+Decistion Tree with accuracy of 81.1475409836%
+naive_bayes with accuracy of 79.5081967213% 
+naive_bayes with accuracy of 79.5081967213%
+naive_bayes with accuracy of 83.606557377%
+naive_bayes with accuracy of 81.1475409836% 
+naive_bayes with accuracy of 83.606557377%
+naive_bayes with accuracy of 83.606557377%
+Decision Tree with accuracy of 80.3278688525%
+Decision Tree with accuracy of 83.606557377%
+Decision Tree with accuracy of 80.3278688525%
+Decision Tree with accuracy of 81.1475409836%
+Decision Tree with accuracy of 83.606557377%
+Decision Tree with accuracy of 83.606557377%
+naive_bayes with accuracy of 79.5081967213%
+naive_bayes with accuracy of 83.606557377%
+Naive Bayes with accuracy of 83.607% 
+Naive Bayes with accuracy of 83.607% 
+Naive Bayes with accuracy of 83.607% 
+Naive Bayes with accuracy of 83.607% 
+Naive Bayes with accuracy of 83.607% 

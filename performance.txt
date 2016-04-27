@@ -1,0 +1,18 @@
+Nazariy Dumanskyy
+
+Predicting County Presidential Winners
+Summary:
+The current model uses a Naive Bayes classifier. 
+It can attain an accuracy score of about 84%.
+Process:
+1) I started by loading the data from the train.csv file. From there, I converted features and labels to a numpy array and divided it into train/test data. This allowed me to test different classifiers and see their accuracy scores. 
+
+2) Starting with the SVM classifier, the accuracy was low, at about 80% and the processing time was very long as well about 5 min. I tried using the linear kernel and not much changed with that as well.
+ 
+3) Reading that Naive Bayes is good with many features, performing this classifier generated an accuracy score of 84% which is a significant improvement. Also, the classifier ran very fast, almost instantaneous.
+
+4)Later, I decided also to try using Decision Tees. The classifier also generated a score of about 84% after some tweaks to the parameters. 
+By changing the min_samples_leaf parameter to 50, which decreased the chances of overfitting, I was able to increase the score from 74% to 84%.
+
+In the end, I ended up going with Naive Bayes because it was more persistent with its accuracy score. The Decision Tree classifier would sometimes jump between 80% to 84%. 
+ 

@@ -1,0 +1,30 @@
+Nazariy Dumanskyy
+Predicting County Presidential Winners
+
+Dependencies:
+	1.	pandas
+	2.	numpy
+	3.	scipy
+	4.	sklearn
+
+Running the program:
+	1.	Run python build_model.py
+	⁃	model is saved in the model folder
+	2.	Run python make_predictions.py
+	⁃	predictions are saved in predictions.csv file
+Additional Files
+	•	performance_log.txt saves the accuracy of each run 
+	•	Screen Shot shows how I ran the scripts
+	•	requirements.txt includes all the libraries that would need to be installed
+	•	by running pip install -r requirements.txt all the requirements should get installed
+
+Notes:
+The script is currently using the Naive Bayes classifier because it was able to achieve an accuracy score of 84%.
+I picked Naive Bayes because it returned the highest accuracy score and took least processing time.
+The other classifiers like SVM or Decision trees were either inconsistent or took too long to run. A more detailed explanation is in the performance.txt file.
+
+Improvements: 
+The improvements that I would take a look at are the features of the data and the parameters of the classifiers. 
+By tweaking, for example,  parameters like the gamma or the C parameters for the SVM classifier, I might be able to get the classifier to increase its accuracy score and decrease processing time. 
+Also, by cutting out some of the features of the data that don't have much influence would also be beneficial. 
+By playing around with this parameters and features,  I might be able to maximize the accuracy score and minimize the processing time for each model. 
